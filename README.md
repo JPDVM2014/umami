@@ -1,4 +1,4 @@
-#Installing Umami on Unraid
+# Installing Umami on Unraid
 
 1. Install postgresql from the Community Apps store. Tested working on postgresql12 and postgresql15.
 
